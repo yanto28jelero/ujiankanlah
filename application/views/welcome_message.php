@@ -61,9 +61,9 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Our Block!</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+          <div class="intro-lead-in">Selamat Datang di Hotel KIta</div>
+          <div class="intro-heading text-uppercase">Semoga menyenangkan buat</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Silahkan melihat lebih detail</a>
         </div>
       </div>
     </header>
