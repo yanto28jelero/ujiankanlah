@@ -83,24 +83,24 @@
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">Pemesanaan Online</h4>
+            <p class="text-muted">Berisi tentang semua aktifitas pemesanan hotel yang dilakukan.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Responsive Design</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">Responsive Design Web Responsif</h4>
+            <p class="text-muted">Desain web responsiv berisi segala sesuatu yang memungkinkan perangkat anda dapat terhubung ke aplikasi.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">Keamanan web</h4>
+            <p class="text-muted">Berisi semua hal yang menyangkut keamanan dari web.</p>
           </div>
         </div>
       </div>
