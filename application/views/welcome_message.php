@@ -91,7 +91,7 @@
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Responsive Design Web Responsif</h4>
+            <h4 class="service-heading">Design Web Responsif</h4>
             <p class="text-muted">Desain web responsiv berisi segala sesuatu yang memungkinkan perangkat anda dapat terhubung ke aplikasi.</p>
           </div>
           <div class="col-md-4">
@@ -112,7 +112,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Sekilas tentang pemesanan Hotel.</h3>
           </div>
         </div>
         <div class="row">
@@ -126,8 +126,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+              <h4>Tampilan awal</h4>
+              <p class="text-muted">Ilustrasi Awal</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -140,8 +140,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4>Proses</h4>
+              <p class="text-muted">Formulir pemesanan</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -154,8 +154,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Finish</h4>
-              <p class="text-muted">Identity</p>
+              <h4>Selesai</h4>
+              <p class="text-muted">Pesan</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -168,8 +168,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/04-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Lines</h4>
-              <p class="text-muted">Branding</p>
+              <h4>Depan</h4>
+              <p class="text-muted">Gambaran Hotel</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -182,8 +182,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/05-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Southwest</h4>
-              <p class="text-muted">Website Design</p>
+              <h4>Dari Samping</h4>
+              <p class="text-muted">Model Desain</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -196,8 +196,8 @@
               <img class="img-fluid" src="/ujiankanlah/hotel/img/portfolio/06-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Window</h4>
-              <p class="text-muted">Photography</p>
+              <h4>Jendela</h4>
+              <p class="text-muted">Hasil foto</p>
             </div>
           </div>
         </div>
