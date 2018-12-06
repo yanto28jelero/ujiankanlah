@@ -209,8 +209,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">About</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Tentang Hotal</h2>
+            <h3 class="section-subheading text-muted">Beberapa Informasi terkait Hotel
           </div>
         </div>
         <div class="row">
@@ -223,10 +223,10 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2009-2011</h4>
-                    <h4 class="subheading">Our Humble Beginnings</h4>
+                    <h4 class="subheading">Hotel di Buka</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Hotel ini berdiri dan telah melalui tahap-tahap perkembangan dalam beberapa tahun sehingga sekarang memiliki fasilitas dan pelayanan yang bagus dan lengkap</p>
                   </div>
                 </div>
               </li>
@@ -237,10 +237,10 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>March 2011</h4>
-                    <h4 class="subheading">An Agency is Born</h4>
+                    <h4 class="subheading">Agensi Lahir</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Hotel ini berdiri dan telah melalui tahap-tahap perkembangan dalam beberapa tahun sehingga sekarang memiliki fasilitas dan pelayanan yang bagus dan lengkap</p>
                   </div>
                 </div>
               </li>
@@ -250,11 +250,11 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>December 2012</h4>
-                    <h4 class="subheading">Transition to Full Service</h4>
+                    <h4>Desember 2012</h4>
+                    <h4 class="subheading">Transisi ke Layanan Lengkap</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Hotel ini berdiri dan telah melalui tahap-tahap perkembangan dalam beberapa tahun sehingga sekarang memiliki fasilitas dan pelayanan yang bagus dan lengkap</p>
                   </div>
                 </div>
               </li>
@@ -264,19 +264,19 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>July 2014</h4>
-                    <h4 class="subheading">Phase Two Expansion</h4>
+                    <h4>Juli 2014</h4>
+                    <h4 class="subheading">Fase Dua Ekspansi</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Hotel ini berdiri dan telah melalui tahap-tahap perkembangan dalam beberapa tahun sehingga sekarang memiliki fasilitas dan pelayanan yang bagus dan lengkap</p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <h4>Be Part
-                    <br>Of Our
-                    <br>Story!</h4>
+                  <h4>Jadilah Bagian
+                    <br>Dari cerita
+                    <br>Kami</h4>
                 </div>
               </li>
             </ul>
